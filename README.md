@@ -1,0 +1,2 @@
+# PythonBasic
+Pythonの基礎
